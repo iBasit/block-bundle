@@ -1,5 +1,5 @@
 {
-    "name": "symfony-cmf/block-bundle",
+    "name": "iBasit/block-bundle",
     "type": "symfony-bundle",
     "description": "Symfony CMF Block Bundle",
     "keywords": ["Symfony CMF", "Block", "content fragments"],
